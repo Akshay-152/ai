@@ -1,0 +1,41 @@
+{
+    "hi|hello|hey": ["Hi!", "Hello! How can I help?", "Hey there!"],
+    "how are you": ["I'm good! How about you?", "I'm an AI, but I'm feeling great!", "I'm always here to help!"],
+    "what is your name|who are you|what are you": ["I'm an AI chatbot. Call me Buddy!", "I'm your virtual assistant!"],
+    "who created you|who made you": ["I was created by Akshay PK!", "Akshay PK built me to assist people!"],
+    
+    "tell me a joke|make me laugh": [
+        "Why did the scarecrow win an award? Because he was outstanding in his field!",
+        "Why don’t skeletons fight each other? Because they don’t have the guts!",
+        "What do you call cheese that isn’t yours? Nacho cheese!"
+    ],
+
+    "what is ai|define ai": ["AI stands for Artificial Intelligence, which enables machines to think and learn."],
+    "who is the president of india": ["As of 2025, the President of India is Droupadi Murmu."],
+    "who is the prime minister of india": ["As of 2025, the Prime Minister of India is Narendra Modi."],
+
+    "who invented the telephone": ["Alexander Graham Bell invented the telephone in 1876."],
+    "who discovered gravity": ["Sir Isaac Newton discovered gravity after seeing an apple fall from a tree."],
+    "what is the largest planet in the solar system": ["Jupiter is the largest planet in the solar system."],
+    "who painted the mona lisa": ["The Mona Lisa was painted by Leonardo da Vinci."],
+    "which is the longest river in the world": ["The Nile River is the longest river in the world."],
+    "who wrote harry potter": ["The Harry Potter series was written by J.K. Rowling."],
+    "who is known as the father of computers": ["Charles Babbage is known as the Father of Computers."],
+    "which is the fastest land animal": ["The cheetah is the fastest land animal, reaching speeds up to 120 km/h (75 mph)."],
+
+    "what is the speed of light": ["The speed of light is approximately 299,792 kilometers per second."],
+    "who invented the internet": ["The internet was developed by multiple scientists, but the concept was led by Vinton Cerf and Robert Kahn."],
+    "how does wifi work": ["WiFi transmits data wirelessly using radio waves to connect devices to the internet."],
+    "what is the meaning of www": ["WWW stands for World Wide Web."],
+    "who created google": ["Google was founded by Larry Page and Sergey Brin in 1998."],
+
+    "how many planets are in the solar system": ["There are 8 planets in the solar system: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune."],
+    "which planet is known as the red planet": ["Mars is known as the Red Planet."],
+    "what is a black hole": ["A black hole is a region in space where gravity is so strong that nothing, not even light, can escape."],
+
+    "how many bones are in the human body": ["There are 206 bones in the adult human body."],
+    "which organ pumps blood in the body": ["The heart is responsible for pumping blood throughout the body."],
+    "what is the largest organ in the human body": ["The skin is the largest organ of the human body."],
+
+    "bye|goodbye|see you": ["Goodbye! Have a great day!", "See you soon!", "Bye! Take care!"]
+}
