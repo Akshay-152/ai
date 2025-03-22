@@ -99,6 +99,53 @@ function getBotResponse(input) {
         "what can you do": ["I can chat, tell jokes, answer questions, and even solve math problems! Try 'What is 5+3'."],
         "can you solve math problems": ["Yes! Try asking 'What is 12 + 7' or 'Solve 8 * 9'."],
 
+
+        "what is the capital of india": ["The capital of India is New Delhi."],
+    "who is the ceo of tesla": ["As of 2025, the CEO of Tesla is Elon Musk."],
+    "who invented the light bulb": ["The light bulb was invented by Thomas Edison."],
+    "who discovered gravity": ["Gravity was discovered by Sir Isaac Newton."],
+    "largest planet in the solar system": ["The largest planet in our solar system is Jupiter."],
+    "what is the speed of light": ["The speed of light is approximately 299,792,458 meters per second."],
+    "how many continents are there": ["There are 7 continents on Earth: Asia, Africa, North America, South America, Antarctica, Europe, and Australia."],
+    "what is the full form of cpu": ["CPU stands for Central Processing Unit."],
+    "who wrote harry potter": ["The Harry Potter series was written by J.K. Rowling."],
+    "fastest land animal": ["The fastest land animal is the cheetah, which can run up to 120 km/h (75 mph)."],
+    
+    "who won the fifa world cup 2022": ["Argentina won the FIFA World Cup 2022, defeating France in the final."],
+    "what is the boiling point of water": ["The boiling point of water is 100°C (212°F) at sea level."],
+    "largest ocean in the world": ["The Pacific Ocean is the largest ocean in the world."],
+    "who invented the telephone": ["The telephone was invented by Alexander Graham Bell."],
+    "how many bones are in the human body": ["An adult human body has 206 bones."],
+    "what is the national bird of india": ["The national bird of India is the Indian Peacock."],
+    "who painted the mona lisa": ["The Mona Lisa was painted by Leonardo da Vinci."],
+    "what is the smallest country in the world": ["The smallest country in the world is Vatican City."],
+
+
+    "how many planets are there in the solar system": ["There are 8 planets in the solar system."],
+    "what is the national flower of india": ["The national flower of India is the Lotus."],
+    "who discovered electricity": ["Electricity was discovered by Benjamin Franklin."],
+    "what is the hardest natural substance on earth": ["Diamond is the hardest natural substance on Earth."],
+    "largest desert in the world": ["The largest desert in the world is the Antarctic Desert."],
+    "who was the first man to walk on the moon": ["Neil Armstrong was the first man to walk on the moon in 1969."],
+    "who discovered penicillin": ["Penicillin was discovered by Alexander Fleming."],
+    "who is known as the missile man of india": ["Dr. APJ Abdul Kalam is known as the Missile Man of India."],
+    "who was the first prime minister of india": ["The first Prime Minister of India was Pandit Jawaharlal Nehru."],
+    "how many players are there in a football team": ["A football team consists of 11 players on the field."],
+
+    "which is the most spoken language in the world": ["The most spoken language in the world is English, followed by Mandarin Chinese."],
+    "what is the national game of india": ["The national game of India is Hockey."],
+    "who wrote the indian national anthem": ["The Indian National Anthem 'Jana Gana Mana' was written by Rabindranath Tagore."],
+    "what is the tallest mountain in the world": ["The tallest mountain in the world is Mount Everest, at 8,848 meters."],
+    "who discovered the vaccine for polio": ["The polio vaccine was developed by Jonas Salk."],
+    "which is the longest river in the world": ["The longest river in the world is the Nile River."],
+    "how many hearts does an octopus have": ["An octopus has three hearts."],
+    "which is the largest mammal in the world": ["The largest mammal in the world is the blue whale."],
+    "who discovered the theory of relativity": ["The theory of relativity was discovered by Albert Einstein."],
+    "who is known as the iron man of india": ["Sardar Vallabhbhai Patel is known as the Iron Man of India."],
+
+
+
+        
         // Goodbyes
         "bye|goodbye|see you": ["Goodbye! Have a great day!", "See you soon!", "Bye! Take care!"]
     };
